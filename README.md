@@ -1,0 +1,2 @@
+# web3-ghost-template
+Opensource web3 client that consumes the content of a headless CMS and displays information based on the tokens you have or your activity in blockchain. This functionality enables the gamification of communities and their effective use, being able to discriminate access to content based on the behavior of each user to the community, having been all recorded in the blockchain.

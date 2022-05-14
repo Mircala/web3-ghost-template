@@ -30,6 +30,7 @@ Open Source web3 client that consumes the content of a headless CMS and displays
 
 # Additional documentation
 
+[Ghost docs: Getting Started](https://ghost.org/help/topic/setting-up/)
 
 ## For writers and editors
 

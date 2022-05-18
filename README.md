@@ -25,8 +25,39 @@ Open Source web3 client that consumes the content of a headless CMS and displays
 
 
 
-# Technical Details
+# 🏁 Getting Started
 
+```bash
+git clone https://github.com/styxlab/next-cms-ghost.git
+cd next-cms-ghost
+yarn
+
+# Development
+yarn dev
+
+# Production
+yarn build
+```
+## Building locally
+
+Create a new text file `.env.local` in the project root folder with the following content:
+
+```
+CMS_GHOST_API_URL=http://localhost:2368
+CMS_GHOST_API_KEY=9fccdb0e4ea5b572e2e5b92942
+```
+
+# 🤯 Ensure headless mode of Ghost CMS
+
+For best SEO results it is strongly recommended to disable the default Ghost Handlebars theme front-end by selecting the _Make this site private_ flag within your Ghost admin settings.
+
+&nbsp;
+
+# 💣 Reporting issues
+
+Please report all bugs and issues at [next-cms-ghost/issues](https://github.com/Mircala/web3-ghost-template/issues).
+
+&nbsp;
 
 # Additional documentation
 
